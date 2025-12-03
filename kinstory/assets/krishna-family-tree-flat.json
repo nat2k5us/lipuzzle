@@ -1,0 +1,871 @@
+{
+  "persons": [
+    {
+      "id": "krishna",
+      "firstName": "Śrī Kṛṣṇa",
+      "lastName": "Supreme",
+      "gender": "male",
+      "generation": 0,
+      "epithet": "The Supreme Personality of Godhead",
+      "role": "Supreme"
+    },
+    {
+      "id": "brahma",
+      "firstName": "Lord",
+      "lastName": "Brahmā",
+      "gender": "male",
+      "generation": 1,
+      "role": "Creator",
+      "epithet": "Secondary creator"
+    },
+    {
+      "id": "marici",
+      "firstName": "Marīci",
+      "lastName": "Prajapati",
+      "gender": "male",
+      "generation": 2,
+      "role": "Prajapati"
+    },
+    {
+      "id": "kasyapa",
+      "firstName": "Kaśyapa",
+      "lastName": "Rishi",
+      "gender": "male",
+      "generation": 3,
+      "role": "Progenitor"
+    },
+    {
+      "id": "aditi",
+      "firstName": "Aditi",
+      "lastName": "Devi",
+      "gender": "female",
+      "generation": 3,
+      "role": "Mother of Devas"
+    },
+    {
+      "id": "vivasvan",
+      "firstName": "Vivasvān",
+      "lastName": "Surya",
+      "gender": "male",
+      "generation": 4,
+      "epithet": "Sun God"
+    },
+    {
+      "id": "vaivasvata_manu",
+      "firstName": "Vaivasvata",
+      "lastName": "Manu",
+      "gender": "male",
+      "generation": 5,
+      "role": "7th Manu"
+    },
+    {
+      "id": "iksvaku",
+      "firstName": "Ikṣvāku",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 6,
+      "epithet": "Founder of Solar Dynasty"
+    },
+    {
+      "id": "atri",
+      "firstName": "Atri",
+      "lastName": "Prajapati",
+      "gender": "male",
+      "generation": 2,
+      "role": "Prajapati"
+    },
+    {
+      "id": "soma",
+      "firstName": "Soma",
+      "lastName": "Chandra",
+      "gender": "male",
+      "generation": 3,
+      "epithet": "Moon God"
+    },
+    {
+      "id": "pururava",
+      "firstName": "Purūrava",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 4,
+      "role": "Founder of Lunar Dynasty"
+    },
+    {
+      "id": "ayu",
+      "firstName": "Āyu",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 5
+    },
+    {
+      "id": "nahusha",
+      "firstName": "Nahusha",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 6
+    },
+    {
+      "id": "yayati",
+      "firstName": "Yayāti",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 7,
+      "epithet": "Great King"
+    },
+    {
+      "id": "devayani",
+      "firstName": "Devayānī",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 7,
+      "role": "Daughter of Shukracharya"
+    },
+    {
+      "id": "sarmistha",
+      "firstName": "Śarmiṣṭhā",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 7,
+      "role": "Princess"
+    },
+    {
+      "id": "yadu",
+      "firstName": "Yadu",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 8,
+      "epithet": "Founder of Yadava Dynasty"
+    },
+    {
+      "id": "puru",
+      "firstName": "Puru",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 8,
+      "epithet": "Founder of Paurava Dynasty"
+    },
+    {
+      "id": "kuru",
+      "firstName": "Kuru",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 15,
+      "epithet": "Kurukshetra named after him"
+    },
+    {
+      "id": "santanu",
+      "firstName": "Śantanu",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 20,
+      "role": "Great King"
+    },
+    {
+      "id": "ganga",
+      "firstName": "Gaṅgā",
+      "lastName": "Devi",
+      "gender": "female",
+      "generation": 20,
+      "epithet": "River Goddess"
+    },
+    {
+      "id": "satyavati",
+      "firstName": "Satyavatī",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 20
+    },
+    {
+      "id": "bhishma",
+      "firstName": "Bhīṣma",
+      "lastName": "Pitamaha",
+      "gender": "male",
+      "generation": 21,
+      "epithet": "Grandsire",
+      "role": "Celibate warrior"
+    },
+    {
+      "id": "vyasa",
+      "firstName": "Vyāsa",
+      "lastName": "Rishi",
+      "gender": "male",
+      "generation": 21,
+      "epithet": "Compiler of Vedas",
+      "role": "Sage"
+    },
+    {
+      "id": "dhritarashtra",
+      "firstName": "Dhṛtarāṣṭra",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 22,
+      "role": "Blind King"
+    },
+    {
+      "id": "gandhari",
+      "firstName": "Gāndhārī",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 22,
+      "epithet": "Blindfolded Queen"
+    },
+    {
+      "id": "pandu",
+      "firstName": "Pāṇḍu",
+      "lastName": "King",
+      "gender": "male",
+      "generation": 22,
+      "role": "Pale King"
+    },
+    {
+      "id": "kunti",
+      "firstName": "Kuntī",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 22,
+      "epithet": "Mother of Pandavas"
+    },
+    {
+      "id": "madri",
+      "firstName": "Mādrī",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 22,
+      "epithet": "Second wife of Pandu"
+    },
+    {
+      "id": "duryodhana",
+      "firstName": "Duryodhana",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "Eldest Kaurava",
+      "role": "Prince"
+    },
+    {
+      "id": "dushasana",
+      "firstName": "Duḥśāsana",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 23,
+      "role": "Kaurava Prince"
+    },
+    {
+      "id": "yudhishthira",
+      "firstName": "Yudhiṣṭhira",
+      "lastName": "Dharmaraja",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "The Righteous",
+      "role": "Eldest Pandava"
+    },
+    {
+      "id": "bhima",
+      "firstName": "Bhīma",
+      "lastName": "Warrior",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "The Strong",
+      "role": "Second Pandava"
+    },
+    {
+      "id": "arjuna",
+      "firstName": "Arjuna",
+      "lastName": "Warrior",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "The Archer",
+      "role": "Third Pandava"
+    },
+    {
+      "id": "nakula",
+      "firstName": "Nakula",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "The Handsome",
+      "role": "Fourth Pandava"
+    },
+    {
+      "id": "sahadeva",
+      "firstName": "Sahadeva",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "The Wise",
+      "role": "Fifth Pandava"
+    },
+    {
+      "id": "draupadi",
+      "firstName": "Draupadī",
+      "lastName": "Queen",
+      "gender": "female",
+      "generation": 23,
+      "epithet": "Fire-born Princess",
+      "role": "Wife of Pandavas"
+    },
+    {
+      "id": "karna",
+      "firstName": "Karṇa",
+      "lastName": "Warrior",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "Son of Surya",
+      "role": "Tragic Hero"
+    },
+    {
+      "id": "subhadra",
+      "firstName": "Subhadrā",
+      "lastName": "Princess",
+      "gender": "female",
+      "generation": 23,
+      "role": "Sister of Krishna"
+    },
+    {
+      "id": "abhimanyu",
+      "firstName": "Abhimanyu",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 24,
+      "epithet": "Young Hero"
+    },
+    {
+      "id": "prativindhya",
+      "firstName": "Prativindhya",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 24,
+      "role": "Son of Yudhishthira"
+    },
+    {
+      "id": "sutasoma",
+      "firstName": "Sutasoma",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 24,
+      "role": "Son of Bhima"
+    },
+    {
+      "id": "srutakirti",
+      "firstName": "Śrutakīrti",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 24,
+      "role": "Son of Arjuna"
+    },
+    {
+      "id": "satanika",
+      "firstName": "Śatānīka",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 24,
+      "role": "Son of Nakula"
+    },
+    {
+      "id": "srutakarma",
+      "firstName": "Śrutakarma",
+      "lastName": "Prince",
+      "gender": "male",
+      "generation": 24,
+      "role": "Son of Sahadeva"
+    },
+    {
+      "id": "vasudeva",
+      "firstName": "Vasudeva",
+      "lastName": "Father",
+      "gender": "male",
+      "generation": 22,
+      "role": "Father of Krishna"
+    },
+    {
+      "id": "devaki",
+      "firstName": "Devakī",
+      "lastName": "Mother",
+      "gender": "female",
+      "generation": 22,
+      "epithet": "Mother of Krishna"
+    },
+    {
+      "id": "rohini",
+      "firstName": "Rohiṇī",
+      "lastName": "Mother",
+      "gender": "female",
+      "generation": 22,
+      "role": "Foster mother of Balarama"
+    },
+    {
+      "id": "balarama",
+      "firstName": "Balarāma",
+      "lastName": "Brother",
+      "gender": "male",
+      "generation": 23,
+      "epithet": "Elder Brother of Krishna",
+      "role": "Incarnation of Shesha"
+    },
+    {
+      "id": "nanda",
+      "firstName": "Nanda",
+      "lastName": "Maharaja",
+      "gender": "male",
+      "generation": 22,
+      "role": "Foster father of Krishna"
+    },
+    {
+      "id": "yashoda",
+      "firstName": "Yaśodā",
+      "lastName": "Maiya",
+      "gender": "female",
+      "generation": 22,
+      "role": "Foster mother of Krishna"
+    },
+    {
+      "id": "radha",
+      "firstName": "Radha",
+      "lastName": "Rani",
+      "gender": "female",
+      "generation": 23,
+      "epithet": "Eternal Consort",
+      "role": "Supreme Devotee"
+    },
+    {
+      "id": "rukmini",
+      "firstName": "Rukmiṇī",
+      "lastName": "Devi",
+      "gender": "female",
+      "generation": 23,
+      "role": "Chief Queen of Krishna"
+    },
+    {
+      "id": "satyabhama",
+      "firstName": "Satyabhāmā",
+      "lastName": "Devi",
+      "gender": "female",
+      "generation": 23,
+      "role": "Queen of Krishna"
+    },
+    {
+      "id": "parikshit",
+      "firstName": "Parīkṣit",
+      "lastName": "Maharaja",
+      "gender": "male",
+      "generation": 25,
+      "epithet": "Saved by Krishna",
+      "role": "Grandson of Arjuna"
+    }
+  ],
+  "relationships": [
+    {
+      "person1Id": "krishna",
+      "person2Id": "brahma",
+      "type": "biological_parent",
+      "notes": "Krishna creates Brahma"
+    },
+    {
+      "person1Id": "brahma",
+      "person2Id": "marici",
+      "type": "biological_parent",
+      "notes": "Mental creation"
+    },
+    {
+      "person1Id": "brahma",
+      "person2Id": "atri",
+      "type": "biological_parent",
+      "notes": "Mental creation"
+    },
+    {
+      "person1Id": "marici",
+      "person2Id": "kasyapa",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "kasyapa",
+      "person2Id": "aditi",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "kasyapa",
+      "person2Id": "vivasvan",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "aditi",
+      "person2Id": "vivasvan",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "vivasvan",
+      "person2Id": "vaivasvata_manu",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "vaivasvata_manu",
+      "person2Id": "iksvaku",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "atri",
+      "person2Id": "soma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "soma",
+      "person2Id": "pururava",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "pururava",
+      "person2Id": "ayu",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "ayu",
+      "person2Id": "nahusha",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "nahusha",
+      "person2Id": "yayati",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "yayati",
+      "person2Id": "devayani",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "yayati",
+      "person2Id": "sarmistha",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "yayati",
+      "person2Id": "yadu",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "devayani",
+      "person2Id": "yadu",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "yayati",
+      "person2Id": "puru",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "sarmistha",
+      "person2Id": "puru",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "puru",
+      "person2Id": "kuru",
+      "type": "biological_parent",
+      "notes": "Many generations between"
+    },
+    {
+      "person1Id": "kuru",
+      "person2Id": "santanu",
+      "type": "biological_parent",
+      "notes": "Many generations between"
+    },
+    {
+      "person1Id": "santanu",
+      "person2Id": "ganga",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "santanu",
+      "person2Id": "satyavati",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "santanu",
+      "person2Id": "bhishma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "ganga",
+      "person2Id": "bhishma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "vyasa",
+      "person2Id": "dhritarashtra",
+      "type": "biological_parent",
+      "notes": "Through niyoga"
+    },
+    {
+      "person1Id": "vyasa",
+      "person2Id": "pandu",
+      "type": "biological_parent",
+      "notes": "Through niyoga"
+    },
+    {
+      "person1Id": "dhritarashtra",
+      "person2Id": "gandhari",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "kunti",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "madri",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "dhritarashtra",
+      "person2Id": "duryodhana",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "gandhari",
+      "person2Id": "duryodhana",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "dhritarashtra",
+      "person2Id": "dushasana",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "gandhari",
+      "person2Id": "dushasana",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "yudhishthira",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "kunti",
+      "person2Id": "yudhishthira",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "bhima",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "kunti",
+      "person2Id": "bhima",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "arjuna",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "kunti",
+      "person2Id": "arjuna",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "nakula",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "madri",
+      "person2Id": "nakula",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "pandu",
+      "person2Id": "sahadeva",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "madri",
+      "person2Id": "sahadeva",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "kunti",
+      "person2Id": "karna",
+      "type": "biological_parent",
+      "notes": "Born before marriage"
+    },
+    {
+      "person1Id": "yudhishthira",
+      "person2Id": "draupadi",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "bhima",
+      "person2Id": "draupadi",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "arjuna",
+      "person2Id": "draupadi",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "nakula",
+      "person2Id": "draupadi",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "sahadeva",
+      "person2Id": "draupadi",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "arjuna",
+      "person2Id": "subhadra",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "yudhishthira",
+      "person2Id": "prativindhya",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "draupadi",
+      "person2Id": "prativindhya",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "bhima",
+      "person2Id": "sutasoma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "draupadi",
+      "person2Id": "sutasoma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "arjuna",
+      "person2Id": "srutakirti",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "draupadi",
+      "person2Id": "srutakirti",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "nakula",
+      "person2Id": "satanika",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "draupadi",
+      "person2Id": "satanika",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "sahadeva",
+      "person2Id": "srutakarma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "draupadi",
+      "person2Id": "srutakarma",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "arjuna",
+      "person2Id": "abhimanyu",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "subhadra",
+      "person2Id": "abhimanyu",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "abhimanyu",
+      "person2Id": "parikshit",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "yadu",
+      "person2Id": "vasudeva",
+      "type": "biological_parent",
+      "notes": "Many generations between"
+    },
+    {
+      "person1Id": "vasudeva",
+      "person2Id": "devaki",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "vasudeva",
+      "person2Id": "rohini",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "vasudeva",
+      "person2Id": "krishna",
+      "type": "biological_parent",
+      "notes": "Biological father"
+    },
+    {
+      "person1Id": "devaki",
+      "person2Id": "krishna",
+      "type": "biological_parent",
+      "notes": "Biological mother"
+    },
+    {
+      "person1Id": "vasudeva",
+      "person2Id": "balarama",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "rohini",
+      "person2Id": "balarama",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "vasudeva",
+      "person2Id": "subhadra",
+      "type": "biological_parent"
+    },
+    {
+      "person1Id": "nanda",
+      "person2Id": "krishna",
+      "type": "foster_parent"
+    },
+    {
+      "person1Id": "yashoda",
+      "person2Id": "krishna",
+      "type": "foster_parent"
+    },
+    {
+      "person1Id": "nanda",
+      "person2Id": "yashoda",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "krishna",
+      "person2Id": "radha",
+      "type": "spouse",
+      "notes": "Eternal spiritual relationship"
+    },
+    {
+      "person1Id": "krishna",
+      "person2Id": "rukmini",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "krishna",
+      "person2Id": "satyabhama",
+      "type": "spouse"
+    },
+    {
+      "person1Id": "vasudeva",
+      "person2Id": "kunti",
+      "type": "sibling",
+      "notes": "Sister or cousin-sister"
+    }
+  ]
+}

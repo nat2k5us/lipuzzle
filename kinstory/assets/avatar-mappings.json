@@ -1,0 +1,9 @@
+{
+  "_instructions": "Add custom avatar image filenames for characters here. Place image files in assets/avatars/ folder. Supported formats: png, jpg, jpeg, webp",
+  "_example": {
+    "Śrī Kṛṣṇa": "krishna.png",
+    "Radha": "radha.png"
+  },
+  "mappings": {
+  }
+}

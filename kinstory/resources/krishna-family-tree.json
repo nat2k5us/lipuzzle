@@ -1,0 +1,1015 @@
+{
+  "supreme": {
+    "name": "Śrī Kṛṣṇa",
+    "epithet": "The Supreme Personality of Godhead",
+    "expansions": [
+      "Mahā-Viṣṇu",
+      "Garbhodakaśāyī Viṣṇu",
+      "Kṣīrodakaśāyī Viṣṇu"
+    ],
+    "notes": "Source of all Viṣṇu expansions and the ultimate cause of all causes."
+  },
+  "creation": {
+    "brahma": {
+      "name": "Lord Brahmā",
+      "origin": "Born from the lotus growing from the navel of Garbhodakaśāyī Viṣṇu.",
+      "role": "Secondary creator of the universe.",
+      "prajapatis": [
+        "Marīci",
+        "Atri",
+        "Aṅgirā",
+        "Pulaha",
+        "Pulastya",
+        "Kratu",
+        "Vasiṣṭha",
+        "Bhṛgu",
+        "Dakṣa"
+      ]
+    }
+  },
+  "generation_overrides": {
+    "Lord Brahmā": 1,
+    "Marīci": 2,
+    "Atri": 2,
+    "Aṅgirā": 2,
+    "Pulaha": 2,
+    "Pulastya": 2,
+    "Kratu": 2,
+    "Vasiṣṭha": 2,
+    "Bhṛgu": 2,
+    "Dakṣa (first birth)": 2,
+    "Dakṣa (second birth)": 2,
+    "Kaśyapa": 3,
+    "Kalā": 3,
+    "Aditi": 4,
+    "Diti": 4,
+    "Danu": 4,
+    "Kadru": 4,
+    "Vinatā": 4,
+    "Dhātri": 4,
+    "Krodhavaśā": 4,
+    "Svāyambhuva Manu": 3,
+    "Śatarūpā": 3,
+    "Priyavrata": 4,
+    "Uttānapāda": 4,
+    "Ākūti": 4,
+    "Devahūti": 4,
+    "Prasūti": 4,
+    "Dhruva": 5,
+    "Cākṣuṣa Manu": 3,
+    "Cākṣuṣa": 3,
+    "Vaivasvata Manu": 3,
+    "Śraddhā": 4,
+    "Ila": 5,
+    "Ikṣvāku": 5,
+    "Vikukṣi": 6,
+    "Kakutstha": 6,
+    "Raghu": 7,
+    "Aja": 7,
+    "Daśaratha": 7,
+    "Rāma": 8,
+    "Bharata (son of Daśaratha)": 8,
+    "Lakṣmaṇa": 8,
+    "Śatrughna": 8,
+    "Soma (Candra)": 2,
+    "Purūrava": 3,
+    "Āyu": 4,
+    "Nahusha": 5,
+    "Yayāti": 6,
+    "Devayānī": 6,
+    "Śarmiṣṭhā": 6,
+    "Yadu": 7,
+    "Turvasu": 7,
+    "Druhyu": 7,
+    "Anu": 7,
+    "Puru": 7,
+    "Janamejaya": 8,
+    "Prācīnvān": 8,
+    "Pravīra": 8,
+    "Namasyu": 8,
+    "Vītabhaya": 8,
+    "Śuṇḍu": 8,
+    "Bāhlika": 8,
+    "Somadatta": 8,
+    "Ajamīḍha": 8,
+    "Rikṣa": 8,
+    "Saṃvaraṇa": 8,
+    "Kuru": 9,
+    "Śantanu": 9,
+    "Bhīṣma": 10,
+    "Vyāsa": 10,
+    "Dhṛtarāṣṭra": 11,
+    "Pāṇḍu": 11,
+    "Vidura": 11,
+    "Kuntī": 11,
+    "Kuntī (Pṛthā)": 11,
+    "Mādrī": 11,
+    "Gāndhārī": 11,
+    "Yudhiṣṭhira": 12,
+    "Bhīma": 12,
+    "Arjuna": 12,
+    "Nakula": 12,
+    "Sahadeva": 12,
+    "Karna": 12,
+    "Draupadī": 12,
+    "Vasudeva": 10,
+    "Devakī": 10,
+    "Rohiṇī": 10,
+    "Nanda Mahārāja": 10,
+    "Yaśodā": 10,
+    "Balarāma": 11,
+    "Subhadrā": 11,
+    "Śrī Kṛṣṇa": 0,
+    "Kṣīrodakaśāyī Viṣṇu": 0,
+    "Mahā-Viṣṇu": 0,
+    "Garbhodakaśāyī Viṣṇu": 0
+  },
+  "prajapati_lineages": {
+    "Marīci": {
+      "name": "Marīci",
+      "spouse": {
+        "name": "Kalā",
+        "note": "Daughter of Kardama Muni and Devahūti."
+      },
+      "children": [
+        {
+          "name": "Kaśyapa",
+          "role": "Main progenitor with multiple wives; father of devas, asuras, nāgas, etc."
+        }
+      ]
+    },
+    "Kasyapa": {
+      "name": "Kaśyapa",
+      "spouses": [
+        {
+          "name": "Aditi",
+          "children_summary": "Ādityas including Vivasvān (Sūrya), Indra, Vāmana, etc."
+        },
+        {
+          "name": "Diti",
+          "children_summary": "Daityas such as Hiraṇyākśa and Hiraṇyakaśipu."
+        },
+        {
+          "name": "Danu",
+          "children_summary": "Dānavas."
+        },
+        {
+          "name": "Kadru",
+          "children_summary": "Nāgas (serpents)."
+        },
+        {
+          "name": "Vinatā",
+          "children_summary": "Garuḍa and Aruṇa."
+        },
+        {
+          "name": "Dhātri"
+        },
+        {
+          "name": "Krodhavaśā"
+        }
+      ],
+      "note": "Also married many of the 60 daughters of Dakṣa in his later birth, producing gods, demons, and various species."
+    },
+    "Atri": {
+      "name": "Atri",
+      "spouse": {
+        "name": "Anasūyā"
+      },
+      "children": [
+        {
+          "name": "Soma",
+          "epithet": "Moon-god (Candra)"
+        },
+        {
+          "name": "Durvāsā",
+          "epithet": "Powerful sage, partial manifestation of Śiva."
+        },
+        {
+          "name": "Dattātreya",
+          "epithet": "Incarnation of Viṣṇu."
+        }
+      ]
+    },
+    "Daksa_1st_birth": {
+      "name": "Dakṣa (first birth)",
+      "parents": "Son of Brahmā.",
+      "spouse": {
+        "name": "Prasūti",
+        "parents": "Daughter of Svāyambhuva Manu and Śatarūpā."
+      },
+      "daughters_count": 16,
+      "notable_daughters": [
+        "Satī (later Pārvatī, wife of Śiva, in her next birth)",
+        "Svāhā (wife of Agni)",
+        "Svadhā",
+        "Khyāti (wife of Bhṛgu)"
+      ],
+      "note": "Later reborn as Dakṣa, son of the Pracetas."
+    },
+    "Daksa_2nd_birth": {
+      "name": "Dakṣa (second birth)",
+      "parents": "Son of Prācīnabarhi and the Pracetas line.",
+      "spouse": {
+        "name": "Asiknī"
+      },
+      "daughters_count": 60,
+      "note": "Many daughters married to Kaśyapa and other sages, producing devas, asuras, humans, animals, and other beings."
+    }
+  },
+  "manus": {
+    "Svayambhuva_Manu": {
+      "name": "Svāyambhuva Manu",
+      "position": "1st Manu",
+      "spouse": "Śatarūpā",
+      "children": [
+        {
+          "name": "Priyavrata"
+        },
+        {
+          "name": "Uttānapāda",
+          "children_summary": "Father of Dhruva Mahārāja."
+        },
+        {
+          "name": "Ākūti",
+          "spouse": "Ruci",
+          "children_summary": "Yajña (Viṣṇu avatāra) and Dakṣiṇā."
+        },
+        {
+          "name": "Devahūti",
+          "spouse": "Kardama Muni",
+          "children_summary": "Nine daughters and Lord Kapila (Viṣṇu avatāra)."
+        },
+        {
+          "name": "Prasūti",
+          "spouse": "Dakṣa (first birth)"
+        }
+      ]
+    },
+    "Caksusa_Manu": {
+      "name": "Cākṣuṣa Manu",
+      "position": "6th Manu",
+      "spouse": "Nadvalā (variations exist in some Purāṇas)",
+      "children": [
+        {
+          "name": "Cakṣu",
+          "note": "Has several brothers including Uru, Puru, etc., depending on Purāṇic account."
+        }
+      ]
+    },
+    "Vaivasvata_Manu": {
+      "name": "Vaivasvata Manu",
+      "position": "7th and current Manu",
+      "parents": {
+        "father": "Vivasvān (Sūrya)",
+        "mother": "Saṃjñā / Saranyū"
+      },
+      "spouse": "Śraddhā",
+      "children": [
+        {
+          "name": "Ila",
+          "epithet": "Later becomes Sudyumna."
+        },
+        {
+          "name": "Ikṣvāku",
+          "epithet": "Founder of the Solar dynasty (Sūrya-vaṁśa)."
+        },
+        {
+          "name": "Nriga"
+        },
+        {
+          "name": "Dṛṣṭa"
+        },
+        {
+          "name": "Śaryāti"
+        },
+        {
+          "name": "Nabhānedhiṣṭha"
+        },
+        {
+          "name": "Karūṣa"
+        },
+        {
+          "name": "Pṛṣadhra"
+        },
+        {
+          "name": "Vasumān"
+        },
+        {
+          "name": "Śrāvasta"
+        }
+      ],
+      "other_children_notes": "Yama and Yamī are also born of Sūrya and Saṃjñā; exact placement varies by text."
+    }
+  },
+  "dynasties": {
+    "solar_dynasty": {
+      "founder": {
+        "name": "Ikṣvāku",
+        "parents": {
+          "father": "Vaivasvata Manu",
+          "grandfather": "Vivasvān (Sūrya)"
+        }
+      },
+      "key_lineage": [
+        {
+          "name": "Ikṣvāku",
+          "children_summary": "Many sons including Vikukṣi."
+        },
+        {
+          "name": "Vikukṣi"
+        },
+        {
+          "name": "Kakutstha",
+          "epithet": "Kakutstha/Raghu ancestor."
+        },
+        {
+          "name": "Raghu"
+        },
+        {
+          "name": "Aja"
+        },
+        {
+          "name": "Daśaratha",
+          "children": [
+            {
+              "name": "Rāma",
+              "epithet": "Lord Rāmacandra, avatāra of Viṣṇu."
+            },
+            {
+              "name": "Bharata (son of Daśaratha)"
+            },
+            {
+              "name": "Lakṣmaṇa"
+            },
+            {
+              "name": "Śatrughna"
+            }
+          ]
+        }
+      ],
+      "note": "This is a brief highlight of the Rāghava line; many kings in between are omitted for brevity."
+    },
+    "lunar_dynasty": {
+      "origin": {
+        "name": "Soma (Candra)",
+        "epithet": "Moon-god, son of Atri and Anasūyā.",
+        "descendant": {
+          "name": "Purūrava",
+          "spouse": "Urvaśī"
+        }
+      },
+      "Pururava_line": {
+        "Pururava": {
+          "name": "Purūrava",
+          "spouse": "Urvaśī",
+          "children": [
+            {
+              "name": "Āyu",
+              "children": [
+                {
+                  "name": "Nahusha",
+                  "children": [
+                    {
+                      "name": "Yayāti",
+                      "spouses": [
+                        {
+                          "name": "Devayānī",
+                          "father": "Śukrācārya",
+                          "children": [
+                            {
+                              "name": "Yadu",
+                              "epithet": "Founder of the Yādava dynasty."
+                            },
+                            {
+                              "name": "Turvasu"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Śarmiṣṭhā",
+                          "father": "Vṛṣaparvā",
+                          "children": [
+                            {
+                              "name": "Druhyu"
+                            },
+                            {
+                              "name": "Anu"
+                            },
+                            {
+                              "name": "Puru",
+                              "epithet": "Founder of the Paurava dynasty; ancestor of Bharata, Kuru, Pāṇḍavas, Kauravas."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "Puru_line": {
+        "founder": "Puru (son of Yayāti and Śarmiṣṭhā)",
+        "descendants_sequence": [
+          "Puru",
+          "Janamejaya",
+          "Prācīnvān",
+          "Pravīra",
+          "Namasyu",
+          "Vītabhaya",
+          "Śuṇḍu",
+          "Bāhlika",
+          "Somadatta",
+          "Ajamīḍha",
+          "Rikṣa",
+          "Saṃvaraṇa",
+          "Kuru"
+        ],
+        "Kuru_branch": {
+          "Kuru": {
+            "name": "Kuru",
+            "note": "Kurukṣetra is named after him.",
+            "descendants": [
+              {
+                "name": "Parikṣit I"
+              },
+              {
+                "name": "Jahnu"
+              },
+              {
+                "name": "Suratha"
+              },
+              {
+                "name": "Vidūratha"
+              }
+            ]
+          },
+          "later_kings": {
+            "name": "Śantanu",
+            "spouses": [
+              {
+                "name": "Gaṅgā",
+                "children": [
+                  {
+                    "name": "Devarāta (Bhīṣma)",
+                    "epithet": "Bhīṣma, great grandsire of the Kurus."
+                  }
+                ]
+              },
+              {
+                "name": "Satyavatī",
+                "children": [
+                  {
+                    "name": "Citrāṅgada"
+                  },
+                  {
+                    "name": "Vicitravīrya"
+                  }
+                ]
+              }
+            ],
+            "notes": "After Vicitravīrya’s death, Vyāsa fathers heirs by niyoga."
+          },
+          "Vyasa_niyoga": {
+            "father": "Vyāsa (son of Parāśara and Satyavatī)",
+            "children": [
+              {
+                "name": "Dhṛtarāṣṭra",
+                "mother": "Ambikā",
+                "spouse": "Gāndhārī",
+                "children": [
+                  {
+                    "name": "Duryodhana"
+                  },
+                  {
+                    "name": "Duḥśāsana"
+                  },
+                  {
+                    "name": "Duśśalā",
+                    "epithet": "Sister of Duryodhana"
+                  },
+                  {
+                    "name": "Other Kaurava brothers",
+                    "count": 97
+                  }
+                ]
+              },
+              {
+                "name": "Pāṇḍu",
+                "mother": "Ambālikā",
+                "spouses": [
+                  {
+                    "name": "Kuntī",
+                    "children_by_devas": [
+                      {
+                        "name": "Yudhiṣṭhira",
+                        "father_deva": "Dharma"
+                      },
+                      {
+                        "name": "Bhīma",
+                        "father_deva": "Vāyu"
+                      },
+                      {
+                        "name": "Arjuna",
+                        "father_deva": "Indra"
+                      },
+                      {
+                        "name": "Karna",
+                        "father_deva": "Sūrya",
+                        "note": "Born to Kuntī before her marriage to Pāṇḍu."
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Mādrī",
+                    "children_by_devas": [
+                      {
+                        "name": "Nakula",
+                        "father_deva": "Aśvins"
+                      },
+                      {
+                        "name": "Sahadeva",
+                        "father_deva": "Aśvins"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Vidura",
+                "mother": "Maidservant",
+                "note": "Incarnation of Dharma in a partial form."
+              }
+            ]
+          },
+          "Pandava_families": {
+            "Draupadi": {
+              "name": "Draupadī",
+              "married_to": "All five Pāṇḍavas",
+              "children": [
+                {
+                  "name": "Prativindhya",
+                  "father": "Yudhiṣṭhira"
+                },
+                {
+                  "name": "Sutasoma",
+                  "father": "Bhīma"
+                },
+                {
+                  "name": "Śrutakīrti",
+                  "father": "Arjuna"
+                },
+                {
+                  "name": "Śatānīka",
+                  "father": "Nakula"
+                },
+                {
+                  "name": "Śrutakarma",
+                  "father": "Sahadeva"
+                }
+              ]
+            },
+            "other_spouses": {
+              "Yudhiṣṭhira": [
+                {
+                  "name": "Devikā",
+                  "lineage": "Princess of the Śibi kingdom",
+                  "children": [
+                    "Yaudheya"
+                  ]
+                }
+              ],
+              "Bhīma": [
+                {
+                  "name": "Hiḍimbā",
+                  "lineage": "Rakṣasī of the Himālayas",
+                  "children": [
+                    "Ghaṭotkaca"
+                  ]
+                },
+                {
+                  "name": "Vālandharā",
+                  "lineage": "Princess of Kāśī",
+                  "children": [
+                    "Sarvaga"
+                  ]
+                }
+              ],
+              "Arjuna": [
+                {
+                  "name": "Subhadrā",
+                  "lineage": "Sister of Kṛṣṇa and Balarāma",
+                  "children": [
+                    "Abhimanyu"
+                  ]
+                },
+                {
+                  "name": "Ulūpī",
+                  "lineage": "Nāga princess",
+                  "children": [
+                    "Irāvān"
+                  ]
+                },
+                {
+                  "name": "Citrāṅgadā",
+                  "lineage": "Princess of Manipura",
+                  "children": [
+                    "Babhruvāhana"
+                  ]
+                }
+              ],
+              "Nakula": [
+                {
+                  "name": "Karenumatī",
+                  "lineage": "Princess of Cedi",
+                  "children": [
+                    "Niramitra"
+                  ]
+                }
+              ],
+              "Sahadeva": [
+                {
+                  "name": "Vijayā",
+                  "lineage": "Magadha princess, daughter of Jarāsandha",
+                  "children": [
+                    "Suhotra"
+                  ]
+                }
+              ],
+              "notes": "Each Pāṇḍava formed additional alliances beyond Draupadī, expanding the Kuru-Yādava network."
+            }
+          }
+        }
+      },
+      "Yadu_line_to_Krishna": {
+        "high_level_path": "Yadu → many generations → Haihayas/Yādavas → Śūrasena → Vasudeva → Kṛṣṇa",
+        "Yadu_descendants": [
+          {
+            "name": "Sahasrajit",
+            "line_highlights": [
+              "Eldest son of Yadu; carries the Haihaya branch.",
+              "Śatajit and later Kārtavīrya Arjuna descend from this line."
+            ]
+          },
+          {
+            "name": "Krośṭrī (Kroṣṭā)",
+            "descendants": [
+              {
+                "name": "Vrishni",
+                "note": "Namesake of the Vṛṣṇi and Andhaka clans of Mathurā."
+              },
+              {
+                "name": "Śini line",
+                "note": "Produces Satyaki (Yuyudhāna), a key ally of the Pāṇḍavas."
+              }
+            ],
+            "notes": "This branch is the direct path toward Vasudeva and Kṛṣṇa."
+          },
+          {
+            "name": "Nīla",
+            "note": "Mentioned among Yadu’s sons; details are sparse."
+          },
+          {
+            "name": "Antika",
+            "note": "Associated with Bhoja chiefs in later generations."
+          },
+          {
+            "name": "Śahanīla",
+            "note": "Sometimes listed as Śahanīka; a younger son of Yadu."
+          }
+        ],
+        "Vrishni_branch": {
+          "kroshtri_lineage": [
+            {
+              "name": "Krośṭrī",
+              "note": "Yadu’s son who secured Mathurā."
+            },
+            {
+              "name": "Vrishni",
+              "note": "Gave the clan its name."
+            },
+            {
+              "name": "Devamīḍha",
+              "note": "Also written Devamidha; stabilizes the Vrishni chiefs."
+            },
+            {
+              "name": "Śūra",
+              "note": "Father of Vasudeva and Kuntī (Pṛthā)."
+            },
+            {
+              "name": "Vasudeva",
+              "note": "Father of Balarāma and Kṛṣṇa."
+            }
+          ],
+          "intermediate_branches": [
+            {
+              "name": "Anamitra & Nighna",
+              "note": "Connect Vrishni to Devamīḍha; their descendants include Satrājit (Syamantaka jewel)."
+            },
+            {
+              "name": "Śini → Satyaka → Yuyudhāna",
+              "note": "Line culminating in Satyaki, commander on the Pāṇḍava side."
+            }
+          ],
+          "sura_children": {
+            "sons": [
+              {
+                "name": "Vasudeva",
+                "note": "Married Devakī and Rohiṇī."
+              },
+              {
+                "name": "Devabhāga"
+              },
+              {
+                "name": "Devaśravā"
+              },
+              {
+                "name": "Anaka"
+              },
+              {
+                "name": "Śṛñjaya"
+              },
+              {
+                "name": "Śyāmaka"
+              }
+            ],
+            "daughters": [
+              {
+                "name": "Pṛthā (Kuntī)",
+                "note": "Adopted by Kuntibhoja; mother of the Pāṇḍavas."
+              },
+              {
+                "name": "Śrutāśravā",
+                "note": "Married to Cedi king Damaghoṣa; mother of Śiśupāla."
+              },
+              {
+                "name": "Śrutadevā",
+                "note": "Married to Bhadraseṇa among the Yādavas."
+              },
+              {
+                "name": "Śrutakīrti",
+                "note": "Allied to Dantavakra per Purāṇic narration."
+              },
+              {
+                "name": "Rājādhidevī",
+                "note": "Forms another alliance within the Vrishni court."
+              }
+            ],
+            "notes": "Śūra arranged political marriages; he entrusted Pṛthā to his cousin Kuntibhoja."
+          },
+          "ahuka_line": {
+            "ancestor": "Ahūka",
+            "sons": [
+              {
+                "name": "Devaka",
+                "children": {
+                  "sons": [
+                    "Devavat",
+                    "Upadeva",
+                    "Sudeva",
+                    "Devarakṣita"
+                  ],
+                  "daughters": [
+                    {
+                      "name": "Devakī",
+                      "note": "Mother of Kṛṣṇa."
+                    },
+                    {
+                      "name": "Dhṛṣṭadevā"
+                    },
+                    {
+                      "name": "Śrutadevā"
+                    },
+                    {
+                      "name": "Śrutakīrti"
+                    },
+                    {
+                      "name": "Śrutāvartā"
+                    },
+                    {
+                      "name": "Śrutadeśnā"
+                    },
+                    {
+                      "name": "Śrutavratā"
+                    }
+                  ]
+                },
+                "note": "Devakī and her sisters wed Vasudeva and his brothers."
+              },
+              {
+                "name": "Ugrasena",
+                "children_summary": "Father of Kaṁsa, Kamsā, Sunāmī, Nyagrodha and other Bhoja princes and princesses.",
+                "notes": "Usurped by Kaṁsa and later reinstated by Kṛṣṇa."
+              }
+            ]
+          },
+          "notable_allies": [
+            {
+              "name": "Akrūra",
+              "role": "Devotee who escorted Kṛṣṇa and Balarāma from Vṛndāvana to Mathurā."
+            },
+            {
+              "name": "Satyaki (Yuyudhāna)",
+              "role": "Vrishni commander loyal to the Pāṇḍavas."
+            },
+            {
+              "name": "Uddhava",
+              "role": "Counselor, friend, and recipient of Kṛṣṇa’s parting instructions."
+            }
+          ]
+        },
+        "Vasudeva_family": {
+          "parents": {
+            "father": "Śūrasena"
+          },
+          "spouses": [
+            {
+              "name": "Devakī",
+              "children_summary": "Six elder sons killed by Kaṁsa, 7th Balarāma (fetus transferred to Rohiṇī), 8th Kṛṣṇa.",
+              "children": [
+                {
+                  "name": "Six older sons",
+                  "note": "Killed by Kaṁsa."
+                },
+                {
+                  "name": "Balarāma",
+                  "note": "7th pregnancy; the fetus was transferred to Rohiṇī by Yogamāyā."
+                },
+                {
+                  "name": "Kṛṣṇa",
+                  "epithet": "8th son, avatāra of Viṣṇu."
+                }
+              ]
+            },
+            {
+              "name": "Rohiṇī",
+              "children": [
+                {
+                  "name": "Balarāma",
+                  "epithet": "Raised by Rohiṇī; incarnation of Śeṣa."
+                }
+              ]
+            }
+          ],
+          "Kunti_connection": {
+            "name": "Kuntī (Pṛthā)",
+            "relationship": "Sister (or cousin-sister by adoption) of Vasudeva.",
+            "note": "Daughter of Śūrasena, adopted by Kuntibhoja."
+          }
+        },
+        "Krishna": {
+          "name": "Śrī Kṛṣṇa",
+          "parents": {
+            "father": "Vasudeva",
+            "mother": "Devakī"
+          },
+          "foster_parents": {
+            "father": "Nanda Mahārāja",
+            "mother": "Yaśodā"
+          },
+          "dynasty": "Yadu / Vṛṣṇi / Yādava",
+          "notable_spouses": [
+            "Rukmiṇī",
+            "Satyabhāmā",
+            "Jāmbavatī",
+            "and others (16,108 queens)"
+          ],
+          "notable_relations": [
+            {
+              "name": "Subhadrā",
+              "relationship": "Sister",
+              "spouse": "Arjuna",
+              "child": "Abhimanyu"
+            }
+          ]
+        },
+        "Krishna_family": {
+          "siblings": [
+            {
+              "name": "Balarāma",
+              "mother": "Rohiṇī",
+              "note": "Elder brother; embodiment of Śeṣa."
+            },
+            {
+              "name": "Subhadrā",
+              "mother": "Rohiṇī",
+              "note": "Married to Arjuna; mother of Abhimanyu."
+            },
+            {
+              "name": "Other Vasudeva sons",
+              "note": "Texts mention brothers such as Saṅka, Saṅgrāma, Śrutasena, Damaghoṣa, etc., who fought beside the Yādavas."
+            }
+          ],
+          "ashtabharya": [
+            {
+              "name": "Rukmiṇī",
+              "note": "Vidarbha princess; abducted by Kṛṣṇa; mother of Pradyumna."
+            },
+            {
+              "name": "Satyabhāmā",
+              "note": "Daughter of Satrājit; famed for the Syamantaka jewel episode."
+            },
+            {
+              "name": "Jāmbavatī",
+              "note": "Daughter of Jāmbavān; mother of Sāmba."
+            },
+            {
+              "name": "Kalindī",
+              "note": "Personified Yamunā river."
+            },
+            {
+              "name": "Mitravindā",
+              "note": "Princess of Avantī; sister to Vindā and Anuvindā."
+            },
+            {
+              "name": "Nagnajitī (Satya)",
+              "note": "Princess of Kosala; won after subduing seven ferocious bulls."
+            },
+            {
+              "name": "Bhadra",
+              "note": "Princess of Kekaya; cousin of Kṛṣṇa."
+            },
+            {
+              "name": "Lakṣmaṇā (Mādrī)",
+              "note": "Daughter of the king of Madra."
+            }
+          ],
+          "children_highlights": [
+            {
+              "name": "Pradyumna",
+              "mother": "Rukmiṇī",
+              "note": "Considered Kāma reborn; father of Aniruddha."
+            },
+            {
+              "name": "Cārudeṣṇa",
+              "mother": "Rukmiṇī",
+              "note": "One of the ten sons listed in Bhāgavata 10.61."
+            },
+            {
+              "name": "Sāmba",
+              "mother": "Jāmbavatī",
+              "note": "Known for mischief leading to the sages’ curse (Mausala-līlā)."
+            },
+            {
+              "name": "Bhānu",
+              "mother": "Satyabhāmā",
+              "note": "Represents the solar brilliance within the Yādavas."
+            },
+            {
+              "name": "Vīra",
+              "mother": "Nagnajitī",
+              "note": "Elder among Satya’s ten sons."
+            }
+          ],
+          "grandchildren": [
+            {
+              "name": "Aniruddha",
+              "parents": "Pradyumna and Rukmavatī",
+              "note": "Married Ūṣā (daughter of Bāṇāsura); father of Vajra."
+            },
+            {
+              "name": "Vajra",
+              "parents": "Aniruddha and Ūṣā",
+              "note": "Survived the Mausala-līlā and was installed as king of Mathurā."
+            }
+          ],
+          "household_notes": "Bhāgavata Purāṇa 10.61 notes that each of the eight principal queens bore ten sons; the remaining 16,100 wives in Dvārakā also had sons who formed the extended Yādava court.",
+          "extended_relations": [
+            {
+              "name": "Kuntī",
+              "relationship": "Paternal aunt",
+              "note": "Mother of the Pāṇḍavas; strengthens the Vrishni-Pāṇḍava alliance."
+            },
+            {
+              "name": "Pāṇḍavas",
+              "relationship": "Cousins through Pṛthā",
+              "note": "Supported by Kṛṣṇa during the Mahābhārata war."
+            },
+            {
+              "name": "Satyaki",
+              "relationship": "Clan cousin",
+              "note": "Yādava hero devoted to Kṛṣṇa and Arjuna."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "additional_notes": {
+    "Bharata_distinction": {
+      "note": "There are two Bharatas: Bharata, son of Duḥṣanta and Śakuntalā (from Puru line, ancestor of Kuru), and Bharata, son of Lord Ṛṣabhadeva (after whom Bhārata-varṣa is named). These are distinct persons."
+    },
+    "Rsabhadeva_line": {
+      "Rsabhadeva": {
+        "name": "Lord Ṛṣabhadeva",
+        "father": "Nābhi",
+        "son": "Bharata (after whom the land is called Bhārata-varṣa)."
+      }
+    },
+    "Pracetas_and_Daksa": {
+      "note": "Dakṣa is reborn as the son of the Pracetas. This later Dakṣa has 60 daughters, many of whom marry Kaśyapa and populate the universe with various species."
+    }
+  }
+}
